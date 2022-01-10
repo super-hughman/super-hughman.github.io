@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post-list
 title: Blog Posts
 permalink: /Blog-Posts/
 ---
