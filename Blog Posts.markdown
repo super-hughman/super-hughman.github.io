@@ -16,7 +16,6 @@ Fill out the form below to receive email alerts when a new blog is published!
 <div id="mc_embed_signup">
 <form action="https://hughgabriel.us20.list-manage.com/subscribe/post?u=8b12c3fe30591b6791aeb4a45&amp;id=3430f4c2b2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe for Email Alerts</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
