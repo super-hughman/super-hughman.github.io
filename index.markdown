@@ -10,6 +10,9 @@ title: Home
 ![Hiking in Glacier National Park, pic by Gabriel Ewig](/assets/glacier-creek.jpg)
 {: style="width: 100%; margin: 0 auto;"}
 
-Hugh Gabriel is currently working towards a double major in English and Environmental Studies, with a concentration in Food, Agriculture, and Society.
-Sustainable agriculture and science communication are two of his core interests.
-Follow along through the [blog](/Blog-Posts) as Hugh explores the ecosystems of Madagascar and beyond over the next six months!
+
+
+Hi!
+I'm Hugh, and welcome to my website. This site is currently under construction, but eventually it will be home to all of my writing projects and ecological research work.
+
+For now, follow along through the [blog](/Blog-Posts) as I explores the ecosystems of Madagascar and beyond over the next six months!
