@@ -15,4 +15,4 @@ title: Home
 Hi!
 I'm Hugh, and welcome to my website. This site is currently under construction, but eventually it will be home to all of my writing projects and ecological research work.
 
-For now, follow along through the [blog](/Blog-Posts) as I explores the ecosystems of Madagascar and beyond over the next six months!
+For now, follow along through the [blog](/Blog-Posts) as I explore the ecosystems of Madagascar and beyond over the next six months!
