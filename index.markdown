@@ -7,7 +7,7 @@ title: Home
 
 ---
 
-![Hiking in Glacier National Park, pic by Gabriel Ewig](/assets/glacier-creek.jpg)
+![Boundary Waters lake, pic by Hugh Gabriel](/assets/lakepanorama.jpg)
 {: style="width: 100%; margin: 0 auto;"}
 
 
