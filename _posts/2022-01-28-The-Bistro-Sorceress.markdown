@@ -31,11 +31,9 @@ The rest of Paris flew by without major incident, even as money flew out of our 
 I would have been upset with the cost on the whole, but every meal besides Julia’s tea knocked it out of the park. Having resolved to blow my savings before inflation does the job against my will, I figured I might as well eat up.
 
 
-| ![Sacre Coeur](/assets/sacrecoeur.jpg) |
-|:--:| 
-| *Interior of Sacre Coeur, Paris* |
-
-
+![Sacre Coeur](/assets/sacrecoeur.jpg)
+{: style="height: 20%; margin: 0 auto;"}
+*Interior of Sacre Coeur, Paris*
 
 We caught our train to Nantes without a hitch, and I fell in love. With the train, that is. Blisteringly fast, smooth ride, clean and modern interior. The kind of machine that makes you whistle involuntarily when it glides into the station. I struggle to sleep in cars and planes, but I slumped within 20 minutes of departure. Maybe it was the jetlag, maybe the gentle rocking of the train car, or maybe the relief of a reliable and affordable public transit system completely overwhelmed and shut down my system.
 
