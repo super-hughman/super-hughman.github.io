@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "Test Post!"
-date:   2022-01-09 21:13:42 -0600
+title:  "The Bistro Sorceress"
+date:   2022-01-28
 categories: jekyll update
 ---
 Hi, my name is Hugh Gabriel. This site is currently under construction 🚧. Check back soon for the first blog post.
