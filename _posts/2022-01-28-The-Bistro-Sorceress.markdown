@@ -32,8 +32,7 @@ I would have been upset with the cost on the whole, but every meal besides Julia
 
 ![Sacre Coeur](/assets/sacrecoeur.jpg)
 {: style="width: 50%; margin: 0 auto;"}
-|:--:| 
-| *Interior of Sacre Coeur, Paris* |
+*Interior of Sacre Coeur, Paris*
 
 We caught our train to Nantes without a hitch, and I fell in love. With the train, that is. Blisteringly fast, smooth ride, clean and modern interior. The kind of machine that makes you whistle involuntarily when it glides into the station. I struggle to sleep in cars and planes, but I slumped within 20 minutes of departure. Maybe it was the jetlag, maybe the gentle rocking of the train car, or maybe the relief of a reliable and affordable public transit system completely overwhelmed and shut down my system.
 
@@ -42,20 +41,21 @@ Nantes, sadly, was a bit of a ghost town, a surprise given it’s large size. We
 
 ![View From the Ramparts](/assets/nantescastle.jpg)
 {: style="width: 50%; margin: 0 auto;"}
+*View from the Ramparts of the Nantes Chateaux*
 
 Keen to preserve that medieval feeling, Bennett and I also visited the coastal city of St Malo this week. There wasn’t a castle, but the entire city center was surrounded by 30 foot stone walls that dropped right down to the craggy surf, so the fortification effect remained strong. Not to mention the massive German WWII bunkers that dotted the coast, which were shelled into absolute oblivion by Americans during the war (nice).
 
 
 ![A Blasted Bunker](/assets/ww2bunker.jpg)
 {: style="width: 60%; margin: 0 auto;"}
-
+*A Pillbox that was Shredded by American Artillery*
 
 Most of our time in France has been spent in the city of Rennes, where Bennett is based for the year. Lots of young people here, and a certain “joie de vivre” in the streets, most of which are lined with historic buildings. Some of the ancient timber framed buildings have seen better centuries, and the Rennes government has an unnerving custom of postering massive pictures of ermine in the windows of buildings under renovation. Not ermine out frolicking in the hills either, but looming out of the darkness, staring straight ahead. Combined with the inevitable graffiti, at least one building on every block looks like something out of a twisted woodland fairytale nightmare dream.
 
 
 ![A Scene From the Next Jordan Peele Film](/assets/ermine.jpg)
 {: style="width: 60%; margin: 0 auto;"}
-
+*Horrifying Ermines of Nantes*
 
 Luckily my sleep hasn’t been affected yet by the haunted ermines, and I’m actually sleeping better here than I did at home, now that the journey is under way. I spent a good couple of weeks pre-departure trying to plan my way into the perfect trip. I felt far from ready to break out into the world, especially after effectively cocooning myself into a sphere of COVID anxiety last year. It’s now been almost two years since I’ve felt 100% like myself for more than a few weeks at a time. My self confidence has taken a hit, and I think on a deeper level my choice to go to Madagascar was a last ditch effort to get myself back on track.
 
