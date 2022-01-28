@@ -32,7 +32,7 @@ I would have been upset with the cost on the whole, but every meal besides Julia
 
 
 | ![Sacre Coeur](/assets/sacrecoeur.jpg) | 
-{: style="height: 40%; margin: 0 auto;"}
+|:--:| 
 | *Interior of Sacre Coeur, Paris* |
 
 
