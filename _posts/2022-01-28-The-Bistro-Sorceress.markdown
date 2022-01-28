@@ -31,7 +31,7 @@ The rest of Paris flew by without major incident, even as money flew out of our 
 I would have been upset with the cost on the whole, but every meal besides Julia’s tea knocked it out of the park. Having resolved to blow my savings before inflation does the job against my will, I figured I might as well eat up.
 
 
-| ![Sacre Coeur](/assets/sacrecoeur.jpg) {: style="height=200; margin: 0 auto;"}| 
+![Sacre Coeur](/assets/sacrecoeur.jpg) 
 |:--:| 
 | *Interior of Sacre Coeur, Paris* |
 
