@@ -58,7 +58,7 @@ Most of our time in France has been spent in the city of Rennes, where Bennett i
 
 ![A Scene From the Next Jordan Peele Film](/assets/ermine.jpg)
 {: style="width: 60%; margin: 0 auto;"}
-*Horrifying Ermines of Nantes*
+*Horrifying Ermines of Rennes*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 Luckily my sleep hasn’t been affected yet by the haunted ermines, and I’m actually sleeping better here than I did at home, now that the journey is under way. I spent a good couple of weeks pre-departure trying to plan my way into the perfect trip. I felt far from ready to break out into the world, especially after effectively cocooning myself into a sphere of COVID anxiety last year. It’s now been almost two years since I’ve felt 100% like myself for more than a few weeks at a time. My self confidence has taken a hit, and I think on a deeper level my choice to go to Madagascar was a last ditch effort to get myself back on track.
