@@ -1,0 +1,95 @@
+---
+layout: post
+comments: true
+title:  "A to Zebu"
+date:   2022-02-07
+categories: Travel
+---
+
+
+
+Antananarivo is a mountain city, and as I write the furthest peaks have begun to turn slate grey: the longest feelers of the incoming cyclone have arrived. The rainy season is in full swing, but up to now the weather has been ominously perfect. I have a feeling that the city has racked up a debt in expected rainfall. School was cancelled today, work got off early. Out of an abundance of caution, or perhaps to give everyone the chance to watch the storm roll in.
+
+I worry a little about the tortoise/compost machine out back of the house. Will he be okay tucked away in his chunky shell? I had no idea he existed until I asked my host-father where to put a banana peel.
+
+“You can put it anywhere, we have the turtle,” he said.
+
+While my French is mostly functional, my confusion must have shown.
+
+“Out back, there is a turtle for the trash.”
+
+Sure enough, a big ol’ Malagasy tortoise scoots around the back patio and methodically munches all sorts of organic waste. My host-father and some of the Malagasy workers at the program center find it amusing how much common creatures like tortoises, chameleons and geckos fascinate me and the other four American students here. But they expressed the same delight when I showed them photos of raccoons, so I guess it goes both ways.
+
+
+![Monsieur Banane](/assets/mrbanana.jpg)
+{: style="width: 70%; margin: 0 auto;"}
+*Monsieur Banane*
+{: style="color:gray; font-size: 80%; text-align: center;"}
+
+I’ve been in the country for less than a week, and I already feel like I am settling in. The first few days were fraught: the other students and I waited at the airport from 11pm to almost 4am waiting in line for mandatory PCR tests. The first person I had a conversation with, a “busy” worker whose job was to ask arrivals which hotel they were staying at and then shout that name to the line of shuttle drivers, demanded a petit-cadeau for letting me stand there and wait.
+
+At least the phrase petit-cadeau sounds nicer than bribe, as petit-cadeau translates directly to “little gift”. I forked over the cash, but immediately felt a pit growing in my stomach. If this airport employee was already squeezing me for money, what would I be in for once I got into the city?
+
+My perception of Antananarivo grew slowly; first the airport, and then a pitch-black drive into the city, past rice fields and people gathered around broken down cars; silhouettes in the lights of the shuttle. While quarantined in the hotel for two nights, I looked out over an alley. Right away I totally understood why a huge number of action movies take place in cities in the developing world. The view outside my hotel window was something out of a parkour enthusiasts dream. Decrepit ladders led from one crooked alley up to another, while the buildings slanted upwards like a half-excavated quarry: chunks of foundation sticking out in all the right places for an expertly timed, machine-gun pursued, Daniel Craig foothold. Succulents that I would kill in about two weeks in my room back home grew from the cracked brick that was only held in place by iron rebar, perfect for a pull-up onto the roof in the nick of time.
+
+Once we emerged into the city itself, my action movie theory made even more sense. The street landscape is the libertarian’s dream. No stoplights, occasional pavement, absolutely zero regulation on who can sell what and where. Smashing into a fruit stall or sliding under a truck overladen with explosive gas are both totally possible here in Tana. Given the total lack of infrastructure, it is surprising that the bus system works about as well as the spiffy public transit in Rennes. While the buses themselves aren’t much to look at, they arrive on time and often.
+
+In the city center, women with small doe eyed children come asking for money. Our program leader Ando said that women will hire out the children from their parents in order to gain more sympathy and therefore make more money. Based on my limited experience, I have seen fewer actual beggars here than in most US cities. Everyone has found something to sell, and the streets are practically popping at the seams with market stalls.
+
+![View from my street](/assets/NeighborhoodView.jpg)
+{: style="width: 70%; margin: 0 auto;"}
+*View from my street in Antananarivo*
+{: style="color:gray; font-size: 80%; text-align: center;"}
+
+Slowly, I am acclimating to my neighborhood, Ambihitsoa. People are polite and friendly, and they call me “Hugue”, the French version of my name. The father of Gene, another student in the program, has a special greeting for me.
+
+Every time he sees me, he yells, “OOG!”
+
+“SALAM!” I yell back, the standard greeting in Malagasy.
+
+And, without fail, each time he explains his outburst.
+
+“It’s like in the comics. When they get hit, they yell ugh! And it sounds similar.”
+
+Inevitably he’ll feel a little bad about his joke and ask if I understand.
+
+“Like Asterix and Obelix!” I told him once.
+
+That got a great big “AHA!” out of him. He’s a single father, and he loves chumming it up with Gene and I. He and my host father are best buds, and the four of us hang out at the little bar down the path often, passing the hours until the naked lightbulb out front flickers on. Rum here is the equivalent of $1 per bottle…but I haven’t gone overboard just yet. Unfortunately, I am speaking so much French during our “soirees” that I am beginning to think in French, so if my vocabulary for these posts starts to decline that’s the reason.
+
+We haven’t started Malagasy lessons, so I am just picking up Malagasy words as they become useful, such as when I am on my fourth helping of rice and I must insist that I am full to the point of spontaneous combustion. Zebu meat often accompanies the rice. A Zebu looks like a cow except it has a huge shoulder hump. The whole city smells like Zebu meat: a kind of rich tang that’s partially explained by the hundreds of open-air meat shops. Perhaps that’s a copout from choosing a recognizable word to describe the smell here, but I’m sticking with it.
+
+![Zebu](/assets/streetzebu.jpg)
+{: style="width: 60%; margin: 0 auto;"}
+*Zebu in the street on the outskirts of town*
+{: style="color:gray; font-size: 80%; text-align: center;"}
+
+Words from three languages are jumbling together into a warm Zebu stew, and the word for “the smell of Antananarivo” just happens to best fit a chunk of Zebu meat floating to the top. There’s not an English word either for the constant gorgeous mountain view visible from all points in my neighborhood. As I write, the rain has started to bounce off the tin roofs that dot the hills, but the forecast now says that the cyclone is going to mostly pass by the city, and 50 mph winds have turned into showers and a light breeze. That’s perfect for me and the tortoise out back, both living as the Malagasy do: “Moura moura” or slowly, slowly.
+
+![Night View](/assets/nightview.jpg)
+{: style="width: 60%; margin: 0 auto;"}
+*Goodnight!*
+{: style="color:gray; font-size: 80%; text-align: center;"}
+
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = 'https://www.hughgabriel.com/Travel/2022/02/07/A-to-Zebu.html';  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = '/Travel/2022/02/07/A-to-Zebu.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://hughsblog-1.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
