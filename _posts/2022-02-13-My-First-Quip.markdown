@@ -15,7 +15,7 @@ After a cockroach woke me up one night, crawling up my chest, I decided to revis
 Luckily for me, cockroaches are about as scary as bugs get here. There are no dangerously venomous creatures of any kind on the island, and the only threatening critter is the Nile crocodile. Not to discount crocs. In fact, if any crocodiles are reading this, I’d like to emphasize how much respect I have for these modern-day dinosaurs. Dinosaurs in the sense of cool, massive, deadly reptiles, not as a metaphor for old and out of touch. Just to be clear. Alida, one of our program leaders, comes from a town called Marovoay, which translates literally to “many crocodiles”.
 
 
-![Rice paddy](/assets/ricepaddies.JPG)
+![Rice paddy](/assets/ricepaddies.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *Crocodile free rice paddies*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -57,7 +57,7 @@ A few days ago, I used up a lot of brainpower coming up with a funny sentence.
 
 In English, that means “I have a big banana”. A piece of comedic genius on my part. With an extremely limited vocabulary, and banking on the universal power of phallic symbols, I had said something slightly amusing. Unfortunately, and probably justifiably, everyone assumed that I had said my sentence on accident.
 
-![Basement Bar](/assets/basementbar.JPG)
+![Basement Bar](/assets/basementbar.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *Telling jokes at a local bar*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -68,7 +68,7 @@ And then us Americans go abroad expecting other people to speak English. Absolut
 
 It's important for me to consider the global perspective, but I won’t offer much more on the socio-economic factors that keep this country impoverished just yet. I still have a lot to learn! For the time being I am graciously accepting the hospitality of a family and community that could not be more polite and friendly. Yesterday Gene and I played _petanque,_ the French game where you throw the big balls to get close to the little ball, for hours. A game was a great way to connect and learn more of the language, although I did _not_ try to crack a one-liner amongst strangers. I already have the feeling that developing relationships will be the most important aspect of my time here, and I’m not going to go around calling people a mango
 
-![Gene Throws Ball](/assets/genepetanque.JPG)
+![Gene Throws Ball](/assets/genepetanque.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *Gene throws a mean ball*
 {: style="color:gray; font-size: 80%; text-align: center;"}
