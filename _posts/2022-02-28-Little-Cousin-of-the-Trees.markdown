@@ -11,7 +11,7 @@ The stars had beaten back the clouds when Gene called my attention to something 
 
 I swiveled back to the wall of leaves, searching.
 
-“Eyes?” I responded, a bit skeptical, but already crashing my way towards the spot he pointed towards.
+“Eyes?” I responded, a bit skeptical, but already crashing my way towards the spot he pointed at.
 
 My light could only silhouette the interlocking leaves in white.
 
@@ -19,7 +19,7 @@ My light could only silhouette the interlocking leaves in white.
 
 There, among the branches, two shining gold coins. I stepped a foot closer, and the tiny lights winked away into the darkness beyond the campsite.
 
-“I saw something too,” I reported back to Gene, only to find that our guides were one step ahead of us, already leading the way into the valley for a nocturnal tour.
+“I saw something too,” I reported back to Gene, only to find that our guides were one step ahead of us, leading the way into the valley for a nocturnal tour.
 
 I scrambled down the path in pursuit. At night, the forest seemed vast. Ankafobe, the slice of forest that we were walking through, is no more than a valley and a half in size. But with the lichen laden trees clutching close to the path in the night, Ankafobe felt infinite. Our guide, Endry, explained what we were looking for. Mouse lemurs.
 
@@ -30,13 +30,13 @@ I scrambled down the path in pursuit. At night, the forest seemed vast. Ankafobe
 
 Mouse lemurs are the smallest primates in the world. A quick google search will bring up an image of former basketball player Shaquille O’Neal holding one in his hand: the teensy lemur’s head is the size of Shaq’s thumb. A mouse lemur brain weighs about the same as a paperclip. Like most of Madagascar’s wildlife, they are found nowhere else in the world, and they are threatened by habitat loss.
 
-I had expected to see lemurs when I came to Madagascar, but not mouse lemurs, who are not only nocturnal but much shyer than some of their daytime relatives. I hadn’t even seen them at the zoo, where as you may recall, the nocturnal exhibit was closed due to complete mouse-lemur anarchic takeover. So, it was with a bit of doubt that I stumbled along the path behind Endry, my headlamp pointed towards the canopy. We crossed the creek, followed by the gentle gurgle that sustains Ankafobe’s dry-season proof forest.
+I had expected to see lemurs when I came to Madagascar, but not mouse lemurs, who are not only nocturnal but much shyer than some of their daytime relatives. I hadn’t even seen them at the zoo, where as you may recall, the nocturnal exhibit was closed due to complete mouse lemur anarchic takeover. So, it was with a bit of doubt that I stumbled along the path behind Endry, my headlamp pointed towards the canopy. We crossed the creek, followed by the gentle gurgle that sustains Ankafobe’s dry-season proof forest.
 
 I began to lose track of distance, as all the trees looked the same at night, and I couldn’t be sure how fast we were walking. I reminded myself that there was only one path in and out of the forest. And surely, we wouldn’t be walking too much farther. Endry, per usual, was one step ahead.
 
 “Maybe not tonight,” He conceded, shooting one last beam of light into the tips of the trees.
 
-I nodded, disappointed, but not exactly let down. After all, night walks in most Madagascar parks are forbidden for safety reasons, so even getting out and about felt like a treat.
+I nodded, disappointed, but not totally let down. After all, night walks in most Madagascar parks are forbidden for safety reasons, so even getting out and about felt like a treat.
  
 The sound of the creek had found us again when Endry stopped abruptly. Without a word he dialed his headlamp to narrow the beam. High in the canopy, two lights shone back at us. I stared breathless, and let my vision adjust. There, clutching a twig above us was our most distant cousin. From a distance, the mouse lemur’s eyes seemed larger than its body. An animal so impossibly adorable, that it would have been more plausible to see in a Pixar movie. 
 
