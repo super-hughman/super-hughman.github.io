@@ -33,15 +33,15 @@ With a look at his expensive watch, it was clear he was making that time well wo
 
 A building taller than three stories is rare here, so on a clear day I can look out onto the mountains on the horizon. White egrets often silently fly overhead en route to nearby rice fields. This is generally a short flight, because rice fields checkerboard the valley floors right into downtown. Young boys wade up to their armpits in the water holding bamboo poles, competing with the egrets for small fish. The fields let the city breath out, and their importance is compounded because Tana features few public parks, and none that are free to access. A magnificent botanical garden was created in a public square but only in order to discourage public demonstrations. Vendors who used to set up shop in the square now cram onto the sidewalk against the black iron fence.
  
-These mini shops shouldn’t be confused with wandering vendors, who sell a very particular set of goods. Namely, sunglasses, peanuts, koba (a peanut-rice cake), cell phone chargers, masks, pineapple slices, and thimble sized portions of ice cream. I am still trying to work out why only certain goods stay on the move. Do sunglass and ice-cream vendors try and target the sunniest parts of the city on any given day? Do pineapple vendors walk past my house because word of my insatiable appetite for the fruit has spread? At least The koba sellers have an obvious strategy. Sometimes I am sitting in class when the alarm sounds.
+These mini shops shouldn’t be confused with wandering vendors, who sell a very particular set of goods. Namely, sunglasses, peanuts, _koba_ (a peanut-rice cake), cell phone chargers, masks, pineapple slices, and thimble sized portions of ice cream. I am still trying to work out why only certain goods stay on the move. Do sunglass and ice-cream vendors try and target the sunniest parts of the city on any given day? Do pineapple vendors walk past my house because word of my insatiable appetite for the fruit has spread? At least The koba sellers have an obvious strategy. Sometimes I am sitting in class when the alarm sounds.
 
-“Koooooooooooobaaaaaaaaaaa!”
+“_Koooooooooooobaaaaaaaaaaa_!”
 
-I think if you rallied all the koba sellers in the city you could assemble a lovely choir. The remarkable thing is not that their voices travel half a mile away with perfect clarity, it’s that they hold the note perfectly, so much so that I’m able to harmonize in class. 
+I think if you rallied all the _koba_ sellers in the city you could assemble a lovely choir. The remarkable thing is not that their voices travel half a mile away with perfect clarity, it’s that they hold the note perfectly, so much so that I’m able to harmonize in class. 
 
 ![Koba Gene](/assets/genekoba.JPG)
 {: style="width: 70%; margin: 0 auto;"}
-*Gene chows down on fresh koba*
+*Gene chows down on fresh _koba_*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 Not that I’m bored in class. Quite the opposite! It turns out that language classes can be fun when there’s a real incentive to learn. And our biodiversity lecturers are a rotating cast of some of the biggest names in Madagascar conservation; experts who have species named after them. Tomorrow we’re headed East to Andasibe to put our knowledge to the test. Andasibe is one of the largest National Parks in Madagascar, and we’ll be studying lemurs and ethnobotany. But where my brain is going to stretch the most is communicating with my new host family for the next two weeks. They live right on the edge of the park and don’t speak French or English.
