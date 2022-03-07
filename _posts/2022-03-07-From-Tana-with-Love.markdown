@@ -41,7 +41,7 @@ I think if you rallied all the _koba_ sellers in the city you could assemble a l
 
 ![Koba Gene](/assets/genekoba.JPG)
 {: style="width: 70%; margin: 0 auto;"}
-*Gene chows down on fresh _koba_*
+*Gene chows down on fresh koba*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 Not that I’m bored in class. Quite the opposite! It turns out that language classes can be fun when there’s a real incentive to learn. And our biodiversity lecturers are a rotating cast of some of the biggest names in Madagascar conservation; experts who have species named after them. Tomorrow we’re headed East to Andasibe to put our knowledge to the test. Andasibe is one of the largest National Parks in Madagascar, and we’ll be studying lemurs and ethnobotany. But where my brain is going to stretch the most is communicating with my new host family for the next two weeks. They live right on the edge of the park and don’t speak French or English.
