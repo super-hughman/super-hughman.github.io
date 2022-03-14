@@ -19,7 +19,7 @@ She smiled and said “Tsara be” which means “Very good.” Huge success.
 
 In the park proper, all the guides speak at least a little bit of English. Andasibe is the most visited park in Madagascar, so in non-pandemic years they make their living leading Malagasy, European and American tourists through the forest. But even in a good year the park receives around the same number of visitors as Isle Royale National Park, which is the least visited park in the lower 48 states.
 
-![Golden Sifaka](/assets/goldensifaka.JPG)
+![Golden Sifaka](/assets/goldensifaka.jpg)
 {: style="width: 90%; margin: 0 auto;"}
 *Golden Sifaka in Andasibe*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -30,7 +30,7 @@ I have concluded that lemurs just don’t exist on the same plane of the earth a
 
 Of course, the word “naturally” is dangerous. You can buy “natural” foods that are chock-full of preservatives. And in a world where us humans have made our mark in some way on every single animal and plant, finding something truly natural might just be a pipe dream. 
 
-![Country View](/assets/riverview.JPEG)
+![Country View](/assets/riverview.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *A river on the way East*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -43,7 +43,7 @@ The hotel guides had placed coconuts out by the trail, and soon enough two of th
 
 As for the Aye Aye’s appearance, I will quote Rachel, another American student, who candidly remarked, “I understand why people kill them.”
 
-![Aye Aye](/assets/ayeaye.JPG)
+![Aye Aye](/assets/ayeaye.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *Aye Aye*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -54,7 +54,7 @@ In the morning we woke up with our brains still intact. Gene and I staggered out
 
 I stared in awe at the lemurs up close. Their colorful eyes, the way they loped from tree to tree, the tiny black nails on their long toes. But a worm of disquiet began to grow as each species was called down to meet us. Something was being broken: that air of contemplation and respect between two strangers. The relationship of dependance has real consequences. In the 50 hectare reserve, all the lemurs (most of them introduced) were concentrated near the bungalows. This over crowding has resulted in hybridization between species. Good news for the hotel, who can add a new “species” to their brochures, but bad for the lemur populations as hybrid animals are sterile.
 
-![Lemur](/assets/closelemur.JPG)
+![Lemur](/assets/closelemur.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *White and Black Ruffed Lemur up close*
 {: style="color:gray; font-size: 80%; text-align: center;"}
