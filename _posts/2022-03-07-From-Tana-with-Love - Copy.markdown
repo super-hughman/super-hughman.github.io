@@ -30,7 +30,7 @@ I have concluded that lemurs just don’t exist on the same plane of the earth a
 
 Of course, the word “naturally” is dangerous. You can buy “natural” foods that are chock-full of preservatives. And in a world where us humans have made our mark in some way on every single animal and plant, finding something truly natural might just be a pipe dream. 
 
-![Country View](/assets/riverview.JPG)
+![Country View](/assets/riverview.JPEG)
 {: style="width: 70%; margin: 0 auto;"}
 *A river on the way East*
 {: style="color:gray; font-size: 80%; text-align: center;"}
