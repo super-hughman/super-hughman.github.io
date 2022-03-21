@@ -1,85 +1,88 @@
 ---
 layout: post
 comments: true
-title:  "Lesson in Lemur Ethics"
-date:   2022-03-14
+title:  "Eye of the Gecko"
+date:   2022-03-21
 categories: Travel
 ---
-I wake up routinely at 5:30 am here in Andasibe. My alarm is reliable, even if it’s a little different every day. This morning the Indri, Madagascar’s largest lemur species, woke me up with their ear-splitting cries that carry from the forest over a mile away. Other mornings the roosters wake me first, or the bats squeaking hello to each other as they nestle into their home in the roof.
+The evening becomes the night upon the first step under the canopy. The forest closes up like a street vendor stall, and vines criss-cross between the vastness between trunks. Headlamps throw a dim understanding against the nearest trees, but they do not go far. Luckily life presses right up against the trail. Walkers are rare finds in a forest of hoppers, shimmyers, perchers, beguilers, and flutterers. 
 
-I’m not complaining. The town of Andasibe belongs to an earlier age, where people and animals alike mill about in the streets. Wooden buildings lean against each other like old friends, and the rain tumbles down the cobblestone main street every single day. This is, after all, the rainforest, but the rain falls politely for the most part: usually at night, and only for thirty minutes at a time during the day.
+Songbirds dwarfed by beacon-eyed moths huddle together: asleep on the thinnest of branches. Chameleons too, sleep from the ends of twigs, stock still in diorama poses. Mosquitoes crowd around their clamped shut mouths. The lizards don’t move when poked, except to crack open and swivel an indignant eye.
 
-Communicating with my host mother here presents a new challenge, as she doesn’t speak more than a few words in French. But we get by. I’m able to stumble through a few Malagasy sentences if I need something, or to complement the excellent cooking, and my Malagasy partner Tex generously translates when needed. Once she came up to my room to say goodnight.
+And on the white trees along the path, the bark begins to unstick and grow eyes.
 
-“Window?” She asked, miming closing the shutters.
-
-I was in the middle of brushing my teeth, so I made an expansive expression with my eyebrows. I held up a finger to signify “wait” as I set the stage. Using my classical theater training (and with the toothbrush still in my mouth) I acted out a three act play that expressed my desire to finish brushing my teeth, spit the toothpaste out of the window, and then firmly close and lock the shutters.
-
-She smiled and said “Tsara be” which means “Very good.” Huge success. 
-
-In the park proper, all the guides speak at least a little bit of English. Andasibe is the most visited park in Madagascar, so in non-pandemic years they make their living leading Malagasy, European and American tourists through the forest. But even in a good year the park receives around the same number of visitors as Isle Royale National Park, which is the least visited park in the lower 48 states.
-
-![Golden Sifaka](/assets/goldensifaka.jpg)
+![Leaf Tailed Gecko](/assets/nightleafgecko.JPG)
 {: style="width: 90%; margin: 0 auto;"}
-*Golden Sifaka in Andasibe*
+*Leaf tailed gecko*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-We saw lemurs on our first day. A family of Indri indri, the largest living lemur out of 105 species. High in the canopy, the indri paid us little mind. They climbed over each other, sprang between trees and stuffed themselves with leaves with scarcely a look down. At first, I was confused by their apparent indifference. Were they fed by the guides? Highly habituated to humans? In the US, an animal of similar size such as a chubby coyote would certainly react to human presence, even in the city. 
+Our guide found the first leaf-tailed gecko. It was moving up a tree, in hot pursuit of dinner (breakfast?) when its white eyes were caught by the light. Of course, I’ve seen camouflaged animals before. Mama rabbits tucked into dry grass. A nightjar disguised as a rock on a wall. And the famous chameleons. But the leaf-tailed gecko makes other animals look like total poseurs. 
 
-I have concluded that lemurs just don’t exist on the same plane of the earth as humans. Lemurs are rarely if ever seen walking on the ground, and their natural predators all come from the trees. Unlike a bear tromping down the path in the Northwoods of Minnesota, lemurs and humans don’t naturally share space. 
+Their strategy features several complimenting parts. First, of course, is the coloration, which splotches the exact same way as tree bark. Next comes the eyes. Like other members of the gecko family, leaf tailed geckos don’t have eyelids, and they actually lick their corneas to keep them moist. And what corneas! To match their skin, their eyes kaleidoscope with licheny flecks. 
 
-Of course, the word “naturally” is dangerous. You can buy “natural” foods that are chock-full of preservatives. And in a world where us humans have made our mark in some way on every single animal and plant, finding something truly natural might just be a pipe dream. 
+But the most important part of their camouflage is their jagged skin flaps. To find chameleons, Gene and I have learned to look for chameleon shaped lumps on branches. But that strategy fails with leaf tailed geckos because they have no solid outline. The best way to find them is at night, when they clamp their little pads to the tree and march up and down, looking for food. 
 
-![Country View](/assets/riverview.jpg)
+![Day Gecko](/assets/dayleafgecko.JPG)
 {: style="width: 70%; margin: 0 auto;"}
-*A river on the way East*
+*Spot the gecko!*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-Over the weekend our group went on vacation to an upscale eco-lodge near the Eastern coast. Nestled among palms, charming bungalows abut a private reserve, so the lodgers can experience Madagascar naturally. We had scarcely set down our backpacks before we were whisked away on a boat to “Aye-Aye Island”, one of the few places in the country where you can reliably see the elusive, nocturnal Aye Aye lemur.
+The guides here make most of their money showing around wealthy tourists. So, they have every motivation to spot and identify wildlife while out walking. The slightest glimmer at the top of the tree? Dwarf lemur eyes. A rustle in the bushes? Forest rat. Suspicious shape clinging to a bamboo stalk? Tree frog. On our night walk, the rate of discoveries was so rapid that I began to get impatient when we had gone more than five minutes without seeing something cool.
 
-In Madagascar, the story goes that if you see an Aye Aye, you must kill it immediately. If you let the Aye Aye live, it will wiggle through your thatched roof and scoop out your brains with its extra-long clawed finger. Usually, Aye Ayes use their finger to extract insects from tree cavities, but due to their supposed preference for brains they are frequently killed and are now endangered. 
+The guides of course, have anticipated this issue. 
 
-The hotel guides had placed coconuts out by the trail, and soon enough two of the little goblins ventured forward to grate open the coconuts with their teeth. I do wish I had recorded the sound so I could sell it to a horror-movie studio. 
+“Here, a medicinal plant!”
 
-As for the Aye Aye’s appearance, I will quote Rachel, another American student, who candidly remarked, “I understand why people kill them.”
+“These markings on the tree are from lemur claws!”
 
-![Aye Aye](/assets/ayeaye.jpg)
+“Who knows what this is?”
+
+I raised my hand.
+
+“Um, that’s moss.”
+
+“Great job!”
+
+Clearly the knowledge expectations for visitors were a bit low, but I went along with it. I was there for the full rainforest experience, and at night all the critters were out. Our first visitor was a Scopes Eastern Rainforest Owl. I’m not sure who “Scopes” was, but I think he could’ve come up with a cuter name for an owl that could comfortably rest in a coffee mug.
+
+![Owl](/assets/nightowl.JPG)
 {: style="width: 70%; margin: 0 auto;"}
-*Aye Aye*
+*Owl/Hibou/Vorondolo*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-Before you rush to pass judgement on Rachel’s cold heart, come to Madagascar and see an Aye Aye for yourself. Besides the long black tail, the rest is horrifying. Big flappy ears. Pale lidless eyes. Mangy hair sticky out in all directions. A toothy pink mouth that always rests partially open. And it has elbows: a diabolical little nighttime gremlin.
+The one thing I will say about the rainforest that did not reach expectations was the lighting. Like most people, my only prior experience with rainforests was BBC nature documentaries. Naturally, I expected some excellent lighting: sunlight beaming down through uncountable layers of bright green leaves, or else a mystical mist creeping along the ground. To my mild dismay, sunlight is not a higher quality here than it is in the US, and most days were blandly overcast. 
 
-In the morning we woke up with our brains still intact. Gene and I staggered out of our room at 5:45 to the sound of lemurs calling, this time black and white ruffed lemurs. They squabbled right overhead, even coming down to look at us, and we marveled at our luck. That is, until our guided tour later in the day. Much like the Aye Aye experience, the daytime lemur interactions were not quite natural. Pieces of banana were handed out to lure the lemurs down from the trees, and some students got pictures with lemurs perched on their shoulders. 
-
-I stared in awe at the lemurs up close. Their colorful eyes, the way they loped from tree to tree, the tiny black nails on their long toes. But a worm of disquiet began to grow as each species was called down to meet us. Something was being broken: that air of contemplation and respect between two strangers. The relationship of dependance has real consequences. In the 50 hectare reserve, all the lemurs (most of them introduced) were concentrated near the bungalows. This over crowding has resulted in hybridization between species. Good news for the hotel, who can add a new “species” to their brochures, but bad for the lemur populations as hybrid animals are sterile.
-
-![Lemur](/assets/closelemur.jpg)
+![Jungle View](/assets/junglecreek.JPG)
 {: style="width: 70%; margin: 0 auto;"}
-*White and Black Ruffed Lemur up close*
+*A nice bit of sunlight in the jungle*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-My disquiet grew during our next activity, orchid planting. The hotel owners explained that they were part of a new orchid conservation organization. They had bought hundreds of illegally poached orchids from the market in Tana, to replant in the reserve near the hotel. Gene and I immediately shared a look.
+The BBC must have chosen their filming times well, and they have filmed right where I was walking. Mostly, I think, they filmed the huge Indri Indri lemurs, but also two insect species of particular delight to me.
 
-“Is there a problem with buying illegal orchids?” I asked. “Would that not raise demand and then increase poaching? Or is the market too big for that to make a difference?”
+The Darwin’s spider weaves the longest webs out of any spider on earth. This chunky gray spider will fling herself into the breeze, tethered by a strand of silk, to hope to land across the river. Seeing long strands of silk across the rivers seemed normal until I stopped and thought about it. The physics of the filament is beyond me, but I encourage you to look up David Attenborough’s thoughts on the matter.
 
-I never liked economic modelling, but this was more like 1+1=2. 
+The other insect was the _Borera Lava Tenda_ in Malagasy, or “Giraffe weevil” in English. Another physics head scratcher, this time regarding the impossibly long neck. Ostensibly the male giraffe beetles battle with their long necks. Personally, I think they’re an adaptation to the conspicuous shortage of charismatic insect species. I’m an advocate for these handsome fellows to replace the panda on the WWF logo.
 
-“Actually, the market is quite small,” The Malagasy co-owner responded. “But we have to have a solution for the moment. These orchids are protected here, and until the government can protect more areas, we need to plant them right away somewhere they can reproduce.”
+![Insect](/assets/boreralavatenda.JPG)
+{: style="width: 90%; margin: 0 auto;"}
+*Borera Lava Tenda*
+{: style="color:gray; font-size: 80%; text-align: center;"}
 
-He went on to elaborate a vague plan to somehow work with the poachers in the future and supply them with legal orchids.
+The next day after our night walk, Gene had the audacity to say, “Why do we care about biodiversity?”
 
-“Like using seeds, with a nursery?” Gene asked.
+The room full of environmental studies students and professors exchanged eye contact for a second before launching into combat mode. 
 
-“No, that’s not possible.”
+Gene quickly backtracked to say that he, personally, cared about biodiversity, but he was struggling to find a logical argument to support his view. 
 
-The French owner continued to explain. “In the United States, there is a strong government, that can enforce laws. Here, in Madagascar, until the government begins to act, the future is private.”
+“Aren’t we just working against evolution?” He asked.
 
-Gene and I nodded our dubious assent, more tired of discussing in French than anything else, but the last sentence of the owner stuck with me. The future is private. I thought back to our visits to Andasibe National Park just a couple of days earlier, where the lemurs passed overhead, undisturbed. Where the guides led us through the forest to see all manner of native snakes, chameleons, and plants. 
+“Well, the more species that survive, the higher the chances that life will be adapted to whatever future conditions Earth changes to,” I responded.
 
-The hotel owners wanted an orchid walk to entertain wealthy tourists. So, they bought poached orchids. They wanted their guests to see lemurs up close, so they fed them. In the era of the Anthropocene, where mountains are ripped apart for coal and dead lemurs are hung in the market for food, the hotel owners are not the main culprits. But they’re not conservationists either. Because as fuzzy as the line is between “natural” and “unnatural”, the biggest differential for me is relationships. 
+“But who are we to predict how the Earth is going to change? It seems counterintuitive.”
 
-In a National Park, here or in the United States, there is a chance for people to step away from the center of things. To retake our place on the forest floor. Where we move aside for the moose in the path or crane our necks to catch a glimpse of lemurs stuffing their mouths with wild guava in the canopy. I, for one, hope that the future is very much public.
+Which is true. We don’t know. Yes, the climate is getting warmer thanks to human caused climate change. It might get colder again in 100,000 years. It might keep getting warmer until the rivers crack and the sky turns Martian red. And so logical arguments spin in circles, bouncing off the scraps of information that we know about life and where it’s going. Eventually, it funnels down into one question: Why do we care about life on Earth?
+
+It's a question that can’t be answered with tidy graphs and points and counter points. But in the eyes of the leaf-tailed gecko, where the tree patterns swirl into nebulas, the answer flashes for a second, before being wiped away by a sticky pink gecko tongue.
 
 
 {% if page.comments %}
@@ -90,8 +93,8 @@ In a National Park, here or in the United States, there is a chance for people t
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = 'https://www.hughgabriel.com/Travel/2022/03/14/Lesson-in-Lemur-Ethics.html';  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = '/Travel/2022/03/14/Lesson-in-Lemur-Ethics.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = 'https://www.hughgabriel.com/Travel/2022/03/21/Eye-of-the-Gecko.html';  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = '/Travel/2022/03/21/Eye-of-the-Gecko.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     */
     (function() { // DON'T EDIT BELOW THIS LINE
