@@ -78,4 +78,4 @@ Luckily, our Malagasy friends from our last excursion are staying with us. I’m
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %
+{% endif %}
