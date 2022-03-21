@@ -1,62 +1,89 @@
 ---
 layout: post
 comments: true
-title:  "From Tana with Love"
-date:   2022-03-07
+title:  "Eye of the Gecko"
+date:   2022-03-21
 categories: Travel
 ---
-I’ll tell you right from the start: I didn’t see any lemurs this week. Chameleons too were scarce, as we only found one of the leathery fellows as he clambered up the stairs at the program center. But returning to Antananarivo (or “Tana”) doesn’t mean being removed from nature entirely. This city is very much alive. 
+The evening becomes the night upon the first step under the canopy. The forest closes up like a street vendor stall, and vines criss-cross between the vastness between trunks. Headlamps throw a dim understanding against the nearest trees, but they do not go far. Luckily life presses right up against the trail. Walkers are rare finds in a forest of hoppers, shimmyers, perchers, beguilers, and flutterers. 
 
-As I write, I am sitting on the narrow balcony adjacent to my room. To my right, buses weave around large potholes on the main road, squeezing past a man walking by who carries a load of bicycle parts. Just below me is a footpath inlaid with stone steps, one of many capillaries that connect Tana’s main roads to the markets and water pumps that bustle out of reach of motorized traffic. A bright orange fody, Madagascar’s endemic version of a house sparrow flits by. It lands on a wire that supports pollen-stained spider webs. Plump arachnids sag in the wind. Beyond the webs and wires, a ramshackle house abuts a rare empty lot. This is the boule court, pretend battlefield, gossip zone, and source of how’d-your-feet-get-so-dusty reprimands for the neighborhood kids. Their chirping and laughing can always be heard on the weekends through my open window. Gene and I play boule farther down the hill, in the courtyard of a calmer family compound.
+Songbirds dwarfed by beacon-eyed moths huddle together: asleep on the thinnest of branches. Chameleons too, sleep from the ends of twigs, stock still in diorama poses. Mosquitoes crowd around their clamped shut mouths. The lizards don’t move when poked, except to crack open and swivel an indignant eye.
 
-![Flooded Street](/assets/floodedstreet.JPG)
+And on the white trees along the path, the bark begins to unstick and grow eyes.
+
+![Leaf Tailed Gecko](/assets/nightleafgecko.JPG)
 {: style="width: 90%; margin: 0 auto;"}
-*Coming home from class on a rainy day*
+*Leaf tailed gecko*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-I can say with some confidence that I recognize more of my neighbors here in Madagascar than I do in Wisconsin or Minnesota. People here are out and about all the time. The same taxis sit at the corner every day, the same vendors sit behind their neatly stacked rows of apples and pears. I see now why Gene’s host dad returned to Madagascar a few years ago, leaving a wife and children in France.
+Our guide found the first leaf-tailed gecko. It was moving up a tree, in hot pursuit of dinner (breakfast?) when its white eyes were caught by the light. Of course, I’ve seen camouflaged animals before. Mama rabbits tucked into dry grass. A nightjar disguised as a rock on a wall. And the famous chameleons. But the leaf-tailed gecko makes other animals look like total poseurs. 
 
-“France is not a country for old people,” he said.
+Their strategy features several complimenting parts. First, of course, is the coloration, which splotches the exact same way as tree bark. Next comes the eyes. Like other members of the gecko family, leaf tailed geckos don’t have eyelids, and they actually lick their corneas to keep them moist. And what corneas! To match their skin, their eyes kaleidoscope with licheny flecks. 
 
-While many old French people would probably disagree, I know that he missed his community. I too, have watched the physical distance grow between my friends and family: first going off to college and now halfway across the world in Madagascar. It’s what gnaws on me the most these days. Am I headed towards a future where I only see the people closest to me once or twice a year? 
+But the most important part of their camouflage is their jagged skin flaps. To find chameleons, Gene and I have learned to look for chameleon shaped lumps on branches. But that strategy fails with leaf tailed geckos because they have no solid outline. The best way to find them is at night, when they clamp their little pads to the tree and march up and down, looking for food. 
 
-It helps that I am hugely proud of what my friends and family are up to wherever they are in the world, and I am proud of myself, too. I try and imagine what my twelve-year-old self would think about how I’m doing. So far, little Hugh has given this trip a huge thumbs up. It helps too that the neighborhood here in Tana is so welcoming. The other day a man on the bus from Gabon started talking to me. 
-
-“I don’t speak any Malagasy,” he told me in French, “But I am working here for nine months.”
-
-With a look at his expensive watch, it was clear he was making that time well worth it. He was relieved to speak some French and English with me, but he left to his house before I got his name. No matter, I’m sure I’ll catch him at the bus stop another time. 
-
-![Rainy Tana View](/assets/rainytanaview.JPG)
+![Day Gecko](/assets/dayleafgecko.JPG)
 {: style="width: 70%; margin: 0 auto;"}
-*A storm approaches Tana*
+*Spot the gecko!*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-A building taller than three stories is rare here, so on a clear day I can look out onto the mountains on the horizon. White egrets often silently fly overhead en route to nearby rice fields. This is generally a short flight, because rice fields checkerboard the valley floors right into downtown. Young boys wade up to their armpits in the water holding bamboo poles, competing with the egrets for small fish. The fields let the city breath out, and their importance is compounded because Tana features few public parks, and none that are free to access. A magnificent botanical garden was created in a public square but only in order to discourage public demonstrations. Vendors who used to set up shop in the square now cram onto the sidewalk against the black iron fence.
- 
-These mini shops shouldn’t be confused with wandering vendors, who sell a very particular set of goods. Namely, sunglasses, peanuts, _koba_ (a peanut-rice cake), cell phone chargers, masks, pineapple slices, and thimble sized portions of ice cream. I am still trying to work out why only certain goods stay on the move. Do sunglass and ice-cream vendors try and target the sunniest parts of the city on any given day? Do pineapple vendors walk past my house because word of my insatiable appetite for the fruit has spread? At least The koba sellers have an obvious strategy. Sometimes I am sitting in class when the alarm sounds.
+The guides here make most of their money showing around wealthy tourists. So, they have every motivation to spot and identify wildlife while out walking. The slightest glimmer at the top of the tree? Dwarf lemur eyes. A rustle in the bushes? Forest rat. Suspicious shape clinging to a bamboo stalk? Tree frog. On our night walk, the rate of discoveries was so rapid that I began to get impatient when we had gone more than five minutes without seeing something cool.
 
-“_Koooooooooooobaaaaaaaaaaa_!”
+The guides of course, have anticipated this issue. 
 
-I think if you rallied all the _koba_ sellers in the city you could assemble a lovely choir. The remarkable thing is not that their voices travel half a mile away with perfect clarity, it’s that they hold the note perfectly, so much so that I’m able to harmonize in class. 
+“Here, a medicinal plant!”
 
-![Koba Gene](/assets/genekoba.JPG)
+“These markings on the tree are from lemur claws!”
+
+“Who knows what this is?”
+
+I raised my hand.
+
+“Um, that’s moss.”
+
+“Great job!”
+
+Clearly the knowledge expectations for visitors were a bit low, but I went along with it. I was there for the full rainforest experience, and at night all the critters were out. Our first visitor was a Scopes Eastern Rainforest Owl. I’m not sure who “Scopes” was, but I think he could’ve come up with a cuter name for an owl that could comfortably rest in a coffee mug.
+
+![Owl](/assets/nightowl.JPG)
 {: style="width: 70%; margin: 0 auto;"}
-*Gene chows down on fresh koba*
+*Owl/Hibou/Vorondolo*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-Not that I’m bored in class. Quite the opposite! It turns out that language classes can be fun when there’s a real incentive to learn. And our biodiversity lecturers are a rotating cast of some of the biggest names in Madagascar conservation; experts who have species named after them. Tomorrow we’re headed East to Andasibe to put our knowledge to the test. Andasibe is one of the largest National Parks in Madagascar, and we’ll be studying lemurs and ethnobotany. But where my brain is going to stretch the most is communicating with my new host family for the next two weeks. They live right on the edge of the park and don’t speak French or English.
+The one thing I will say about the rainforest that did not reach expectations was the lighting. Like most people, my only prior experience with rainforests was BBC nature documentaries. Naturally, I expected some excellent lighting: sunlight beaming down through uncountable layers of bright green leaves, or else a mystical mist creeping along the ground. To my mild dismay, sunlight is not a higher quality here than it is in the US, and most days were blandly overcast. 
 
-![Class with Friends](/assets/classwithfriends.JPG)
+![Jungle View](/assets/junglecreek.JPG)
 {: style="width: 70%; margin: 0 auto;"}
-*Class with Malagasy friends*
+*A nice bit of sunlight in the jungle*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-Luckily, our Malagasy friends from our last excursion are staying with us. I’m paired up again with my friend Tex, a soft-spoken grad student who loves lemurs and death metal. If the community in Andasibe is anything as welcoming as my neighborhood back in Tana, I’ll be at ease in no time. Not to mention that I’m still connected virtually with all of you through the blog. The positive support for this project over the past month and a half has been unexpected and a huge morale boost for me. Thank you for reading! And thank you, from the bottom of my heart, for being part of my community.
+The BBC must have chosen their filming times well, and they have filmed right where I was walking. Mostly, I think, they filmed the huge Indri Indri lemurs, but also two insect species of particular delight to me.
 
-![Sunset](/assets/neighborhoodsunset.JPG)
+The Darwin’s spider weaves the longest webs out of any spider on earth. This chunky gray spider will fling herself into the breeze, tethered by a strand of silk, to hope to land across the river. Seeing long strands of silk across the rivers seemed normal until I stopped and thought about it. The physics of the filament is beyond me, but I encourage you to look up David Attenborough’s thoughts on the matter.
+
+The other insect was the _Borera Lava Tenda_ in Malagasy, or “Giraffe weevil” in English. Another physics head scratcher, this time regarding the impossibly long neck. Ostensibly the male giraffe beetles battle with their long necks. Personally, I think they’re an adaptation to the conspicuous shortage of charismatic insect species. I’m an advocate for these handsome fellows to replace the panda on the WWF logo.
+
+![Insect](/assets/boreralavatenda.JPG)
 {: style="width: 90%; margin: 0 auto;"}
-*Sunset from the boule court*
+*Borera Lava Tenda*
 {: style="color:gray; font-size: 80%; text-align: center;"}
+
+The next day after our night walk, Gene had the audacity to say, “Why do we care about biodiversity?”
+
+The room full of environmental studies students and professors exchanged eye contact for a second before launching into combat mode. 
+
+Gene quickly backtracked to say that he, personally, cared about biodiversity, but he was struggling to find a logical argument to support his view. 
+
+“Aren’t we just working against evolution?” He asked.
+
+“Well, the more species that survive, the higher the chances that life will be adapted to whatever future conditions Earth changes to,” I responded.
+
+“But who are we to predict how the Earth is going to change? It seems counterintuitive.”
+
+Which is true. We don’t know. Yes, the climate is getting warmer thanks to human caused climate change. It might get colder again in 100,000 years. It might keep getting warmer until the rivers crack and the sky turns Martian red. And so logical arguments spin in circles, bouncing off the scraps of information that we know about life and where it’s going. Eventually, it funnels down into one question: Why do we care about life on Earth?
+
+It's a question that can’t be answered with tidy graphs and points and counter points. But in the eyes of the leaf-tailed gecko, where the tree patterns swirl into nebulas, the answer flashes for a second, before being wiped away by a sticky pink gecko tongue.
+
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
@@ -66,8 +93,8 @@ Luckily, our Malagasy friends from our last excursion are staying with us. I’m
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = 'https://www.hughgabriel.com/Travel/2022/03/07/From-Tana-with-Love-.html';  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = '/Travel/2022/03/07/From-Tana-with-Love.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = 'https://www.hughgabriel.com/Travel/2022/03/21/Eye-of-the-Gecko.html';  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = '/Travel/2022/03/21/Eye-of-the-Gecko.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     */
     (function() { // DON'T EDIT BELOW THIS LINE
