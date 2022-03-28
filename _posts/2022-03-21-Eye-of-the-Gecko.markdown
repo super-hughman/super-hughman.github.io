@@ -45,14 +45,14 @@ I raised my hand.
 
 Clearly the knowledge expectations for visitors were a bit low, but I went along with it. I was there for the full rainforest experience, and at night all the critters were out. Our first visitor was a Scopes Eastern Rainforest Owl. I’m not sure who “Scopes” was, but I think he could’ve come up with a cuter name for an owl that could comfortably rest in a coffee mug.
 
-![Owl](/assets/nightowl.JPG)
+![Owl](/assets/nightowl.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *Owl/Hibou/Vorondolo*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 The one thing I will say about the rainforest that did not reach expectations was the lighting. Like most people, my only prior experience with rainforests was BBC nature documentaries. Naturally, I expected some excellent lighting: sunlight beaming down through uncountable layers of bright green leaves, or else a mystical mist creeping along the ground. To my mild dismay, sunlight is not a higher quality here than it is in the US, and most days were blandly overcast. 
 
-![Jungle View](/assets/junglecreek.JPG)
+![Jungle View](/assets/junglecreek.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *A nice bit of sunlight in the jungle*
 {: style="color:gray; font-size: 80%; text-align: center;"}
