@@ -32,7 +32,7 @@ And the Toliara barrier reef isn’t even in very good health. Climate change an
 
 The big fish are gone. And the smaller fish might be next. Our study abroad group visited a seaweed farm, one of the sustainable solutions touted by international NGOs. Two pirogues took us out to the lines of seaweed. On the way, we saw two men dragging a net across the seafloor by foot, muscles straining from the effort. They were walking through seagrass, a nursery for baby reef creatures. The very next day, I found a baby moray eel while snorkeling in seagrass, it’s siblings could’ve ended up in the net. 
 
-![Seaweed](/assets/seaweed.JPG)
+![Seaweed](/assets/seaweed.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *Learning the ins and outs of seaweed farming*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -41,7 +41,7 @@ The big fish are gone. And the smaller fish might be next. Our study abroad grou
 
 Droughts in the Southwest of Madagascar have caused food insecurity for half of the population. Over the past two years, crops have failed en masse, leaving subsistence farmers desperately foraging for anything edible. For a visitor like myself, a famine is not immediately visible. People living along the main roads are generally better off, with access to markets where imported food is available in times of shortage. Small images tell the larger story of the plight of southwest Madagascar: the men dragging their net through the surf, a sky speckled with migrating locusts, and everywhere bone-dry riverbeds.
 
-![Dry River](/assets/dryriver.JPG)
+![Dry River](/assets/dryriver.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *The river Fiherenana, turned to desert*
 {: style="color:gray; font-size: 80%; text-align: center;"}
