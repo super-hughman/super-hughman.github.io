@@ -9,11 +9,10 @@ title: Home
 
 ![Hiking in the Alps, photo courtesy Arlen Slaymaker](/assets/mountainman.JPG)
 {: style="width: 100%; margin: 0 auto;"}
-
-
-
+<br/><br/>
 Hi!
-I'm Hugh Gabriel, an undergraduate student at Macalester College. My focus is the intersection of ecology and writing. Check out my current projects, and come back soon for my scientific and creative projects that are currently in progress. Make sure to check out the [Travel Blog](/Blog-Posts), where I dive into the ecosystems and culture of Madagascar and beyond.
+<br/><br/>
+I'm Hugh Gabriel, an undergraduate student at Macalester College. My focus is the intersection of ecology and writing. Check out my current scientific and creative projects, and come back soon for projects that are currently in progress. Make sure to check out the [Travel Blog](/Blog-Posts), where I dive into the ecosystems and culture of Madagascar and beyond.
 You can sign up for email alerts below to stay up to date when a new blog is published.
 
 <!-- Begin Mailchimp Signup Form -->
