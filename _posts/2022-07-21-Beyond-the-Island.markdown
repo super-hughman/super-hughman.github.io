@@ -12,7 +12,7 @@ categories: Travel
 
 It’s been a busy three months. My final few weeks in Madagascar went by in a flash. I spent three of those weeks in the rainforest catching frogs and emerged with some (potentially) exciting results. The science world moves slowly, so I won’t have any concrete answers to share until fall at the earliest. But I can offer a glimpse at the beauty of the rainforest with a few photos. 
 
-![Jungle pool](/assets/riantsoa.JPG)
+![Jungle pool](/assets/riantsoa.jpg)
 {: style="width: 90%; margin: 0 auto;"}
 *Swimming in a jungle pool, Mantadia National Park*
 {: style="color:gray; font-size: 80%; text-align: center;"}
