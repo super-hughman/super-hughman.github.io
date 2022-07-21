@@ -11,10 +11,11 @@ permalink: /writing/
 
 ## Poetry
 
-
+[In Every Little Pool](https://greatlakesreview.org/every-little-pool/)
 
 ## Essays
 
+[Beauty in the Eye of the Restorer] (https://assets.nationbuilder.com/theprairieenthusiasts/pages/63/attachments/original/1657657312/The_Prairie_Promoter-_Summer_2022_.pdf?1657657312)
 
 <style>
   td, tr, table {
