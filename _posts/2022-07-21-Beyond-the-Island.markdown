@@ -12,12 +12,12 @@ categories: Travel
 
 It’s been a busy three months. My final few weeks in Madagascar went by in a flash. I spent three of those weeks in the rainforest catching frogs and emerged with some (potentially) exciting results. The science world moves slowly, so I won’t have any concrete answers to share until fall at the earliest. But I can offer a glimpse at the beauty of the rainforest with a few photos. 
 
-![Jungle pool](/assets/raintsoa.JPG)
+![Jungle pool](/assets/riantsoa.JPG)
 {: style="width: 90%; margin: 0 auto;"}
 *Swimming in a jungle pool, Mantadia National Park*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-![Frog](/assets/boophis.JPG)
+![Frog](/assets/boophis.jpg)
 {: style="width: 90%; margin: 0 auto;"}
 *Evariste holding Boophis madagascariensis, who has inflated after being caught*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -27,7 +27,7 @@ It’s been a busy three months. My final few weeks in Madagascar went by in a f
 *Gene and I and our respective host dads at the local bar*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-![Haircut](/assets/haircut.JPG)
+![Haircut](/assets/haircut.jpg)
 {: style="width: 90%; margin: 0 auto;"}
 *Where I got my haircut in Antananarivo*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -36,7 +36,7 @@ Every day I went out with my wonderful guide, Evariste, to explore a new section
 
 Then, while I could’ve been writing up a final blog post for my treasured readership, I was instead hammering away at my final frog report. I finished it up back in Rennes, France, where my journey began six months ago. Bennett was a generous host once again, and this time my French was good enough that his translation skills were scarcely needed. I’ve been (mostly) in France so far this summer, and the culture shock still hasn’t completely worn off. It’s not so much the wealth; although the high-speed rail system, squeaky clean streets and boutique shops have made an impression. 
 
-![Bennett Trombone](/assets/bennettmusic.JPG)
+![Bennett Trombone](/assets/bennettmusic.jpg)
 {: style="width: 90%; margin: 0 auto;"}
 *Bennett on the Trombone at a jazz club in Rennes*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -45,7 +45,7 @@ It's rather the difference in people. For three months, I was welcomed in Madaga
 
 France has been tricky for me because I sometimes feel like I’m walking on my tiptoes. At the moment I’m staying on a goat farm in the North, earlier in the summer I stayed on a farm in the Southwest. Both host farms have been friendly, but not warm. I’ve noticed an ingrained feeling of cultural superiority: the last farmers laughed in my face when I told them that Wisconsin makes good cheese! When they ask questions about my life in the US, the conversation steers usually towards, "Why do you have so many guns? Why don’t you have healthcare or paid vacation time? Do you like Joe Biden?” And I get it. The US is a global embarrassment. But after I spent three months in a former French colony, I’m not sure the French have a leg to stand on. My college educated Malagasy host dad, for example, worked for a French company. He was paid less than 1% of what his un-educated white colleagues received.
 
-![Goat](/assets/papillon.JPG)
+![Goat](/assets/papillon.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *Papillon, my favorite goat on my current farm*
 {: style="color:gray; font-size: 80%; text-align: center;"}
@@ -56,7 +56,7 @@ Luckily, the xenophobia and snootiness has been mostly restricted to French peop
 
 Instant pals. Free shots all around. He invited us to the vineyard he works at, introduced us to all his friends. And at the next city it was more of the same. So I hope I haven’t come off as anti-French. This is, after all the country that makes the second-best cheese in the world. More than anything, I’m hopeful for the increase in cultural exchange that’s already happening in my generation. A great number of my friends have studied away in the past year, or plan to in the future. And social media, for all its mind-numbingness, has done wonders to foster a common sense of global identity. 
 
-![Salamander](/assets/salamander.JPG)
+![Salamander](/assets/salamander.jpg)
 {: style="width: 70%; margin: 0 auto;"}
 *A salamander I found in the Pyrenees*
 {: style="color:gray; font-size: 80%; text-align: center;"}
