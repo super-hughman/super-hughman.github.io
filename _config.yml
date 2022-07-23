@@ -28,7 +28,7 @@ instagram_username: super.hughman
 twitter_username:  super_hughman
 linkedin_username: hugh-gabriel
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
