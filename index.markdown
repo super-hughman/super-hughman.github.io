@@ -12,7 +12,7 @@ title: Home
 <br/><br/>
 Hi!
 <br/><br/>
-I'm Hugh Gabriel, an undergraduate student at Macalester College. My focus is the intersection of ecology and writing. Check out my current scientific and creative projects, and come back soon for projects that are currently in progress. Make sure to take a look at the [Travel Blog](/Blog-Posts), where I dive into the ecosystems and culture of Madagascar and beyond.
+I'm Hugh Gabriel, an undergraduate student at Macalester College. My focus is the intersection of ecology and writing. Check out my current scientific and creative projects, and come back soon for publications and more that are currently in the works. Make sure to take a look at the [Travel Blog](/Blog-Posts), where I dive into the ecosystems and culture of Madagascar and beyond.
 You can sign up for email alerts below to stay up to date when a new blog is published.
 
 <!-- Begin Mailchimp Signup Form -->
