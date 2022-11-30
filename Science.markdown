@@ -9,7 +9,7 @@ permalink: /science/
 
 # Scientific Publications
 
-## Coming soon!
+[Cuvier's Swift Iguana - Cannibalism and Distribution](/assets/Gabriel-etal-2022-Herp-Rev-Phelsuma.PDF)
 
 
 <style>
