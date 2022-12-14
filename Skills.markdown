@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Work Experience
-permalink: /workexperience/
+title: Skills
+permalink: /skills/
 ---
 
 # Skills
