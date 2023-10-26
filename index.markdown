@@ -12,7 +12,7 @@ title: Home
 <br/><br/>
 Hi!
 <br/><br/>
-Hi! I'm Hugh Gabriel, a gardener, writer, and sometime scientist. Check out my current scientific and creative projects, and come back soon for publications and more that are currently in the works. Make sure to take a look at the [Travel Blog](/Blog-Posts), where I dive into the ecosystems and culture of Madagascar and beyond.
+Hi! I'm Hugh Gabriel, a writer and scientist. Check out my current scientific and creative projects, and come back soon for publications and more that are currently in the works. Make sure to take a look at the [Travel Blog](/Blog-Posts), where I dive into the ecosystems and culture of Madagascar and beyond.
 You can sign up for email alerts below to stay up to date when a new blog is published.
 
 <!-- Begin Mailchimp Signup Form -->
