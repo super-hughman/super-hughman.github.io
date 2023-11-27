@@ -21,7 +21,7 @@
 title: Hugh Gabriel
 email: hugh.tgabriel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  .Thoughts? Send me an email!
+  Thoughts? Send me an email!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: super.hughman
