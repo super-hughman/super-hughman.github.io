@@ -13,7 +13,7 @@ permalink: /science/
 
 [Unexpected diversity and co-occurrence of phytotelmic frogs (Guibemantis)
 around Andasibe, one of the most intensively surveyed amphibian hotspots of
-Madagascar, and descriptions of three new species] (/assets/Gabriel_etal_2024.pdf)
+Madagascar, and descriptions of three new species](/assets/Gabriel_etal_2024.pdf)
 
 
 <style>
