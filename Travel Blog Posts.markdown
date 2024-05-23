@@ -1,7 +1,7 @@
 ---
 layout: post-list
-title: Blog Posts
-permalink: /Blog-Posts/
+title: Travel Blog Posts
+permalink: /Travel-Blog-Posts/
 ---
 
 Fill out the form below to receive email alerts when a new blog is published!
