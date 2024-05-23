@@ -1,6 +1,6 @@
 
 ---
-layout: page
+layout: default
 permalink: /Blog Posts/
 title: Blog Posts
 ---
