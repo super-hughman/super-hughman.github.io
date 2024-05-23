@@ -6,20 +6,20 @@ date:   2024-05-23
 categories: Toads
 ---
 ![Toad in Hand](/assets/toads/gardeningtoad.jpg)
-{: style="width: 70%; margin: 0 auto;"}
+{: style="width: 50%; margin: 0 auto;"}
 *Toads and I have a long history, usually involving me picking them up for a moment and then setting them back down*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
-Among cat people there is a phenomenon known as the “cat distribution system”. The logic goes that for many cat owners, they never chose their cat. It chose them – dropped off on their doorstep, by the side of the road, delivered from the mist by some unseen organization that somehow knew which cat to match to which person. It’s a whimsical process, and always heartwarming. I’ll argue that there is another secret web out there. I’m referring, of course, to the toad distribution system. 
+Among cat people there is a phenomenon known as the “cat distribution system”. The logic goes that for many cat owners, they never chose their cat. It chose them – dropped off on their doorstep, or by the side of the road, delivered from the mist by some unseen organization that somehow knew which cat to match to which person. It’s a whimsical process, and always heartwarming. I’ll argue that there is another secret web out there. I’m referring, of course, to the toad distribution system. 
 
-You’ll immediately have some suspicions. Who the hell has a pet toad? You’re asking yourself. Maybe you’re remembering a particularly funky smelling roommate from college, or ruminating on the habits of medieval witches, who famously kept so many pet toads that they started growing warts from their noses. But I’ll ask for the moment that you suspend your disbelief, and bear witness to how the toads chose me. 
+You’ll immediately have some suspicions. _Who _the _hell _has _a _pet _toad? You’re asking yourself. Maybe you’re remembering a particularly funky smelling roommate from college, or ruminating on the habits of medieval witches, who famously kept so many pet toads that they started growing warts from their noses. But I’ll ask for the moment that you suspend your disbelief, and bear witness to how the toads chose me. 
 
 I’ve been working at the Bell Museum of Natural History for half a year now, and in most respects it’s a dream job. I get to wander around the museum when I’m fidgeting at my computer, my coworkers are cool people who almost uniformly like bugs, I get paid, and soon might even have health insurance. The only drawback is that I’m inside: in fact, this is the first time ever that I will be working a big-boy indoor job over the summer. Working inside isn’t ideal, especially last week when it was beautiful outside, and there were birds swaying on the tops of the grass stems, and spiderwebs weighed down by dewdrops in the morning, and the toads were calling, nay, screaming from the pond right outside the museum.
 
 When I sent videos of the toads engaged in reproductive behavior to my friends, they called me a frog pervert. Which is totally outrageous because frogs are different than toads. They both eat bugs, sure, but toads sport lumpy poisonous glands on their backs, urinate when they feel upset, and range far overland, only venturing into ponds when it’s time to breed. And in the pond next to the museum, the breeding season was well underway.
 
 ![Toads in Amplexus](/assets/toads/amplexus.jpg)
-{: style="width: 90%; margin: 0 auto;"}
+{: style="width: 70%; margin: 0 auto;"}
 *Toads in amplexus (reproducing) in the Bell Museum pond. Note the thin black string of eggs*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
