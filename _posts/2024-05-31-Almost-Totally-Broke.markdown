@@ -29,7 +29,7 @@ Thinking back, it’s a small miracle that the aquarium wasn’t <i> more </i> b
 
 ![Broken Tank](/assets/toads/brokentank.jpg)
 {: style="width: 70%; margin: 0 auto;"}
-*Isaac tried to duct-tape the crakcs. It didn't work.*
+*Isaac tried to duct-tape the cracks. It didn't work.*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
 In between smacking my forehead with my palm like a poorly written comic book character, I tried to salvage the situation. At the back of my mind, nestled among my few functioning neurons, was the knowledge that there was a pitcher full of toad tadpoles on my kitchen counter. 
