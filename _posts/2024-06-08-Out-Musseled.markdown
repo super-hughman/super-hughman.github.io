@@ -24,7 +24,7 @@ On their website, the DNR says that no live mussels can be collected in the stat
 Once home, I placed the mussel in her new home, and she almost immediately began exploring, happy as a clam (ha ha). Mussels have a muscular “foot” which they use to scoot themselves across the streambed and dig themselves into sandy areas. Within an hour, she had crisscrossed the aquarium, digging little trenches in the substrate, before eventually finding a suitable spot to open up and begin feeding.
 
 ![Mussel cleaning](/assets/toads/musselclean.JPG)
-{: style="width: 70%; margin: 0 auto;"}
+{: style="width: 50%; margin: 0 auto;"}
 *A snail and tadpole work together to clean the shell of the mussel.*
 {: style="color:gray; font-size: 80%; text-align: center;"}
 
