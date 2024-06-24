@@ -5,11 +5,6 @@ title:  "Homeostasis"
 date:   2024-06-24
 categories: Toads
 ---
-![Mussel cleaning](/assets/toads/musselclean.JPG)
-{: style="width: 50%; margin: 0 auto;"}
-*A snail and tadpole work together to clean the shell of the mussel.*
-{: style="color:gray; font-size: 80%; text-align: center;"}
-
 The mussel is gone, but the tadpole tank is complete. On a trip to the Habitat for Humanity ReStore, I found a solid end table to place the tank on, as well as an old window screen that Isaac fashioned into a lid for the aquarium. The screen prevents mosquitoes and other bugs from hatching directly into our living room and features a wooden ledge where Isaac and I mounted a grow light, to stimulate plant growth. It is, finally, a real aquarium. 
 
 Roughly 12 million US households have an aquarium, which means that the internet is overflowing with advice on aquarium best practices. Use packaged aquarium pebbles, the fish forums command. Test your pH and nitrogen levels, add a filter, and, most egregiously, change out the water in the tank. This is all fine advice if you keep a fish tank. With the exception of some tidepool-adapted sculpin, there aren’t any fish that are adapted to survive in 20 gallons of water, let alone 10 or 5 gallons. By plunking some goldfish or gobies into a tiny environment, it’s necessary to regulate their conditions strictly. 
