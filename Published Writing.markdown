@@ -19,7 +19,7 @@ permalink: /writing/
 
 ## Journalism
 
-[Rattlesnake Responders Work to Bring Timber Rattlesnakes Back from the Brink] (https://rootrivercurrent.org/rattlesnake-responders-work-to-bring-timber-rattlesnakes-back-from-the-brink/)
+[Rattlesnake Responders Work to Bring Timber Rattlesnakes Back from the Brink](https://rootrivercurrent.org/rattlesnake-responders-work-to-bring-timber-rattlesnakes-back-from-the-brink/)
 
 <style>
   td, tr, table {
