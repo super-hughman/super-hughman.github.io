@@ -17,6 +17,10 @@ permalink: /writing/
 
 [Beauty in the Eye of the Restorer](https://theprairieenthusiasts.org/wp-content/uploads/2023/07/PPSummer2022.pdf)
 
+## Journalism
+
+[Rattlesnake Responders Work to Bring Timber Rattlesnakes Back from the Brink] (https://rootrivercurrent.org/rattlesnake-responders-work-to-bring-timber-rattlesnakes-back-from-the-brink/)
+
 <style>
   td, tr, table {
     border: none!important;
