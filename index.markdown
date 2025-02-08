@@ -6,9 +6,21 @@ layout: default
 title: Home
 
 ---
+ <div class="container">
+  <img src="/assets/Mountain_Hugh.JPG" alt="Hiking in New Zealand" style="width:100%;">
+  <div class="bottom-left">Bottom Left</div>
+  <div class="top-left">Top Left</div>
+  <div class="top-right">Top Right</div>
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered">Centered</div>
+</div> 
 
-![Hiking in New Zealand, photo courtesy Arlen Slaymaker](/assets/Mountain_Hugh.JPG)
-{: style="width: 100%; margin: 0 auto;"}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
 <br/><br/>
 Hi!
 <br/><br/>
