@@ -21,7 +21,7 @@ permalink: /writing/
 
 [Rattlesnake Responders Work to Bring Timber Rattlesnakes Back from the Brink](https://rootrivercurrent.org/rattlesnake-responders-work-to-bring-timber-rattlesnakes-back-from-the-brink/)
 
-[Bell Original Production “Mars: The Ultimate Voyage” Showing at Planetariums Nationwide] (https://www.bellmuseum.umn.edu/blog/bell-original-production-mars-the-ultimate-voyage-showing-at-planetariums-nationwide/)
+[Bell Original Production “Mars: The Ultimate Voyage” Showing at Planetariums Nationwide](https://www.bellmuseum.umn.edu/blog/bell-original-production-mars-the-ultimate-voyage-showing-at-planetariums-nationwide/)
 
 [Three Newly Described Fish Added to Bell Collections](https://www.bellmuseum.umn.edu/blog/newly-described-fish/)
 
