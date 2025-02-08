@@ -8,55 +8,7 @@ title: Home
 ---
  <div class="container">
   <img src="/assets/Mountain_Hugh.JPG" alt="Hiking in New Zealand" style="width:100%;">
-  <div class="bottom-left">Bottom Left</div>
-  <div class="top-left">Top Left</div>
-  <div class="top-right">Top Right</div>
-  <div class="bottom-right">Bottom Right</div>
-  <div class="centered">Centered</div>
-</div> 
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-
-/* Bottom left text */
-.bottom-left {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-}
-
-/* Top left text */
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-}
-
-/* Top right text */
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-  position: absolute;
-  bottom: 8px;
-  right: 16px;
-}
-
-/* Centered text */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-<br/><br/>
+  <br/><br/>
 Hi!
 <br/><br/>
 I'm Hugh Gabriel, a writer, scientist and educator. Check out my current scientific and creative projects, and come back soon for publications and more that are currently in the works. Make sure to take a look at the [Toad Blog](/Toad Blog), where I chronicle lessons learned raising eight tiny toads.
