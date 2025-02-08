@@ -7,7 +7,7 @@ title: Home
 
 ---
 
-![Hiking in the Alps, photo courtesy Arlen Slaymaker](/assets/mountainman.JPG)
+![Hiking in New Zealand, photo courtesy Arlen Slaymaker](/assets/Mountain_Hugh.JPG)
 {: style="width: 100%; margin: 0 auto;"}
 <br/><br/>
 Hi!
