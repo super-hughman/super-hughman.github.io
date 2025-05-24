@@ -21,7 +21,7 @@ title: Home
   position: absolute;
   top: 8px;
   left: 16px;
-   <br/><br/>
+  }
 Hi!
 <br/><br/>
 I'm Hugh Gabriel, a writer, scientist and educator. Check out my current scientific and creative projects, and come back soon for publications and more that are currently in the works. Make sure to take a look at the  <a href="https://www.hughgabriel.com/Toad%20Blog/">Toad Blog</a>, where I chronicle lessons learned raising eight tiny toads.
