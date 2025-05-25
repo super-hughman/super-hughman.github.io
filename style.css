@@ -2,7 +2,6 @@ body {
   background-color: powderblue;
 }
 
-/* Container holding the image and the text */
 .container {
   position: relative;
   text-align: left;
