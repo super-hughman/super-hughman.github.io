@@ -11,7 +11,7 @@ title: Home
   
 Hi!
 <br/><br/>
-I'm Hugh Gabriel, a writer, scientist and educator. Check out my current scientific and creative projects, and come back soon for publications and more that are currently in the works. Make sure to take a look at the  <a href="https://www.hughgabriel.com/Toad%20Blog/">Toad Blog</a>, where I chronicle lessons learned raising eight tiny toads.
+I'm Hugh Gabriel, a writer, scientist and communications specialist. Whether it's making a lichen costume, interviewing icthyologists, or photoshopping a mammoth, I love finding creative ways to tell stories. Check out my current social media and journalism projects, and come back soon for publications and more that are currently in the works. Make sure to take a look at the  <a href="https://www.hughgabriel.com/Toad%20Blog/">Toad Blog</a>, where I chronicle lessons learned raising eight tiny toads.
 You can sign up for email alerts below to stay up to date when a new blog is published.
 <br/><br/>
 <!-- Begin Mailchimp Signup Form -->
