@@ -25,6 +25,12 @@ permalink: /writing/
 
 [Restoring Fields to "Old-Growth Grassland" May Bolster Climate Resiliency](https://outdoor.wildlifeillinois.org/articles/restoring-fields-to-old-growth-grassland-may-bolster-climate-resiliency)
 
+[Snake Fungal Disease Imperils Illinois' Smallest Rattlesnake](https://outdoor.wildlifeillinois.org/articles/snake-fungal-disease-imperils-illinois-smallest-rattlesnake)
+
+[Tiny Threatened Fish Species Re-introduced for the First Time](https://outdoor.wildlifeillinois.org/articles/snake-fungal-disease-imperils-illinois-smallest-rattlesnake)
+
+[Rabies Tests, Acoustics and Trick Nets: Endangered Bats Detected by Illinois Researchers](https://outdoor.wildlifeillinois.org/articles/rabies-tests-acoustics-and-trick-nets-endangered-bats-detected-by-illinois-researchers)
+
 ## Bell Museum Blog
 
 [Bell Original Production “Mars: The Ultimate Voyage” Showing at Planetariums Nationwide](https://www.bellmuseum.umn.edu/blog/bell-original-production-mars-the-ultimate-voyage-showing-at-planetariums-nationwide/)
@@ -34,6 +40,8 @@ permalink: /writing/
 [Bell Collections Unlock Secrets of Migratory Fishes](https://www.bellmuseum.umn.edu/blog/bell-collections-unlock-secrets-of-migratory-fishes/)
 
 [Paleobotanists Solve a Mystery in the Bell's Herbarium](https://www.bellmuseum.umn.edu/blog/paleobotanists-solve-mystery/)
+
+[Bell Museum Bird Specimens Test Out Trackers](https://www.bellmuseum.umn.edu/blog/bird-specimens-test-trackers/)
 
 
 <style>
